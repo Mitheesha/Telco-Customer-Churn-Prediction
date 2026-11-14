@@ -4,3 +4,4 @@ matplotlib
 seaborn
 scipy
 python-dotenv
+scikit-learn
