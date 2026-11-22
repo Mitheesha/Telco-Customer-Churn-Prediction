@@ -218,5 +218,3 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
-src/2_Model_Implementation/1_Hyper_Parameter_Tuning.ipynb
-src/2_Model_Implementation/1_Real_Hyper_Parameter_Tuning.ipynb
