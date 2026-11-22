@@ -5,3 +5,4 @@ seaborn
 scipy
 python-dotenv
 scikit-learn
+imbalanced-learn
